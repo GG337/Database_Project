@@ -1,6 +1,6 @@
 # Bank Management Database
 
-This program utilizes functions and conditional statements to modify and add details to a Bank Management Database located in my SQLWorkBench
+This project utilizes functions and conditional statements to modify and add details to a Bank Management Database located in my SQLWorkBench
 
 ### Functions:
 
