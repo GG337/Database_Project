@@ -1,4 +1,4 @@
-from BANK_MANAGEMENT_SYSTEM import
+from BANK_MANAGEMENT_SYSTEM import OpenAcc, DepoAmo, WithdrawAmount, BalEnq, DisDetails, CloseAcc, mydb
 
 def main():
     print('''1. Open New Account\n2. Deposit Amount\n3. Withdraw Amount\n4. Balance Enquiry\n5. Dispaly Customer Details\n6. Close An Account''')
