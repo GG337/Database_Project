@@ -1,5 +1,5 @@
 import mysql.connector
-mydb=mysql.connector.connect(host='localhost',user='root',password='Mwaura2006.',database='BANK_MANAGEMENT')
+mydb=mysql.connector.connect(host='localhost',user='root',password='Example',database='BANK_MANAGEMENT')
 
 
 def OpenAcc():
